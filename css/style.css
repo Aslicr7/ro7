@@ -26,7 +26,7 @@
   height: 112vh;
   z-index: 0;
   background-repeat: no-repeat;
-  background-image: url(../img/ro-si.jpg);
+  background-image: url(./img/ro-si.jpg);
   background-size: cover;
   background-position: 50%;
   /* -webkit-filter: blur(4px); */
@@ -41,7 +41,7 @@
 }
  
 /* .swal2-container.swal2-backdrop-show{
-  background-image: url(../img/ro2.gif);
+  background-image: url(./img/ro2.gif);
   background-size: cover;
 } */
 header h2 {
